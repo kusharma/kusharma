@@ -1,31 +1,18 @@
 <!--
 **kusharma/kusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi there 👋
+Welcome! 🚀
 
 I am Kunal Sharma, a data scientist and engineer with over a decade of interdisciplinary experience across biotechnology, mechanical engineering, and AI-driven solutions. My career has spanned multiphysics simulation, infectious disease modeling, and organ-on-a-chip technologies.
 
-I’ve lived three professional lives—starting as a mechanical engineer focused on multiphysics simulations, moving into growing artificial organs using technology from microtechnology and the semiconductor industry, and now applying machine learning and AI across fields such as platform ranking, sustainability reporting, and retrieval-augmented generation (RAG).
+I’ve lived three professional lives—starting as a mechanical engineer focused on multiphysics simulations, moving into growing miniaturized organs using microtechnology advances in tissue engineering, and now applying machine learning and AI across fields such as booking platforms ranking, sustainability reporting, and agents.
 
 Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
 
 ---
 
 - 🔭 I’m currently working on AI-based retrieval-augmented generation workflows.
-- 🌱 I’m currently learning more about vector databases and cloud-based MLOps solutions.
-- 💬 Ask me about AI, sustainability reporting, or organ-on-a-chip technologies.
+- 🌱 I’m currently learning more about data engineering and MLOps in Azure and Databricks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drkunalsharma/) or [Email](mailto:kunal.nit90@gmail.com).
 
 ## My Top 6 Projects
