@@ -38,8 +38,8 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/JWT_Symphony.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project-adsv-c2/blob/main/EPFL_R_DALLE.png) |
 | [**Image to Music Generation Using Langchain and Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
 
-* ⚡ Fun fact: I am an avid investor in kickstarter campaigns celebrating ingenuous products related to telescope, musical instruments, klydoclocks, dynamic art for last 5 years.
-            : Most people are afraid of bacterial infections, I kind of fell in love with bacterial persistence during my PhD
+* ⚡ Fun fact: I am an avid investor in kickstarter campaigns celebrating ingenuous products related to Vespera telescope, Artiphone musical instruments, klydoclocks, and dynamic art for last 5 years.
+            * Developed a fascination with bacterial persistence during my PhD, while most fear infections!
 
 
 
