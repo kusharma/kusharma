@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kusharma/kusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,38 +29,48 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drkunalsharma/) or [Email](mailto:kunal.nit90@gmail.com).
 
 
-## My Projects
+## My top projects
 
-### [Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking)
-[![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/raw/main/project_image.png)](https://github.com/kusharma/Expedia-RecTour-Ranking)
+## My Top 6 Projects:
 
-A Python project for tour ranking.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/Expedia-RecTour-Ranking">
+      <img src="https://github.com/kusharma/Expedia-RecTour-Ranking/raw/main/project_image.png" alt="Expedia-RecTour-Ranking" style="width: 100%;">
+    </a>
+  </div>
 
----
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/RAG-Sustainability">
+      <img src="https://github.com/kusharma/RAG-Sustainability/raw/main/project_image.png" alt="RAG-Sustainability" style="width: 100%;">
+    </a>
+  </div>
 
-### [RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability)
-[![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/raw/main/project_image.png)](https://github.com/kusharma/RAG-Sustainability)
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/brain-tumour-classification">
+      <img src="https://github.com/kusharma/brain-tumour-classification/raw/main/project_image.png" alt="brain-tumour-classification" style="width: 100%;">
+    </a>
+  </div>
 
-A Jupyter Notebook project focused on sustainability reporting using RAG models.
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/streamlit-app">
+      <img src="https://github.com/kusharma/streamlit-app/raw/main/project_image.png" alt="streamlit-app" style="width: 100%;">
+    </a>
+  </div>
 
----
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/symphony-of-nebula">
+      <img src="https://github.com/kusharma/symphony-of-nebula/raw/main/project_image.png" alt="symphony-of-nebula" style="width: 100%;">
+    </a>
+  </div>
 
-### [brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification)
-[![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/raw/main/project_image.png)](https://github.com/kusharma/brain-tumour-classification)
+  <div style="flex: 1; min-width: 45%;">
+    <a href="https://github.com/kusharma/epfl-extension-school-project">
+      <img src="https://github.com/kusharma/epfl-extension-school-project/raw/main/project_image.png" alt="EPFL Extension School Project" style="width: 100%;">
+    </a>
+  </div>
+</div>
 
-Classifying brain tumors using deep learning models.
-
----
-
-### [streamlit-app](https://github.com/kusharma/streamlit-app)
-[![streamlit-app](https://github.com/kusharma/streamlit-app/raw/main/project_image.png)](https://github.com/kusharma/streamlit-app)
-
-A Python-based Streamlit app for visualizing data.
-
----
-
-### [symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula)
-[![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/raw/main/project_image.png)](https://github.com/kusharma/symphony-of-nebula)
 
 A Jupyter Notebook project visualizing nebula data.
 
