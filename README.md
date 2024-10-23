@@ -4,6 +4,16 @@ I am Kunal Sharma, a data scientist and engineer with over a decade of interdisc
 
 I’ve lived three professional lives—starting as a mechanical engineer focused on multiphysics simulations, moving into growing miniaturized organs using microtechnology advances in tissue engineering, and now applying machine learning and AI across fields such as booking platforms ranking, sustainability reporting, and agents.
 
+The Three Acts of My Professional Journey 🎭
+Act I: The Engineer's Blueprint 🔧
+In the opening act, I honed my skills as a mechanical engineer, delving deep into multiphysics simulations. Here, I tackled complex engineering challenges, laying the groundwork for what would become a career built on solving intricate problems with precision and innovation.
+
+Act II: The Scientist's Quest 🧬
+The second act saw a transformation. I transitioned into the world of biotechnology, pioneering breakthroughs in organ-on-a-chip technologies. From the microscopic intricacies of tissue engineering to the cutting-edge advances in miniaturized organs, this act brought me closer to the pulse of life sciences.
+
+Act III: The AI Revolution 🤖
+In the final act (for now!), I entered the realm of machine learning and AI. With my sights set on platform ranking, sustainability reporting, and intelligent agentic workflows, I’m advancing how data shapes the world. This act is about innovation, leveraging AI to drive decision-making and uncover insights in entirely new ways.
+
 Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
 
 ---
