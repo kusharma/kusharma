@@ -31,12 +31,10 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 ## My top projects
 
-## My Top 6 Projects:
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 45%;">
     <a href="https://github.com/kusharma/Expedia-RecTour-Ranking">
-      <img src="https://github.com/kusharma/Expedia-RecTour-Ranking/raw/main/project_image.png" alt="Expedia-RecTour-Ranking" style="width: 100%;">
+      <img src="https://github.com/kusharma/Expedia-RecTour-Ranking/Expedia_KuSharma_DALLE.png" alt="Expedia-RecTour-Ranking" style="width: 100%;">
     </a>
   </div>
 
