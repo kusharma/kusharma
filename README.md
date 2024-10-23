@@ -33,7 +33,7 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 | ![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/blob/main/Expedia_KuSharma_DALLE.png) | ![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/blob/main/RAG_SwissRe_DALLE.png) |
 |:---------:|:---------:|
 | [**Expedia-RecTour-Ranking**](https://github.com/kusharma/Expedia-RecTour-Ranking) | [**RAG-Sustainability**](https://github.com/kusharma/RAG-Sustainability) |
-| ![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/blob/main/BrainTumourCNN.png) | ![streamlit-app](https://github.com/kusharma/streamlit-app/blob/main/streamlit_image.png) |
+| ![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/blob/main/BrainTumourCNN.png) | ![streamlit-app](https://github.com/kusharma/streamlit-app/blob/main/Streamlit_RenEnergy_Dalle2.png) |
 | [**brain-tumour-classification**](https://github.com/kusharma/brain-tumour-classification) | [**streamlit-app**](https://github.com/kusharma/streamlit-app) |
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/nebula_image.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project/blob/main/epfl_image.png) |
 | [**symphony-of-nebula**](https://github.com/kusharma/symphony-of-nebula) | [**EPFL Extension School Project**](https://github.com/kusharma/epfl-extension-school-project) |
