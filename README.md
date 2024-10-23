@@ -30,7 +30,6 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 ## My Top 6 Projects
 
-| Project 1 | Project 2 |
 |:---------:|:---------:|
 | [![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/blob/main/Expedia_KuSharma_DALLE.png)](https://github.com/kusharma/Expedia-RecTour-Ranking) | [![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/blob/main/RAG_image.png)](https://github.com/kusharma/RAG-Sustainability) |
 | **Expedia-RecTour-Ranking** | **RAG-Sustainability** |
@@ -39,47 +38,6 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 | [![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/nebula_image.png)](https://github.com/kusharma/symphony-of-nebula) | [![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project/blob/main/epfl_image.png)](https://github.com/kusharma/epfl-extension-school-project) |
 | **symphony-of-nebula** | **EPFL Extension School Project** |
 
-
-
-## My top projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/Expedia-RecTour-Ranking">
-      <img src="https://github.com/kusharma/Expedia-RecTour-Ranking/Expedia_KuSharma_DALLE.png" alt="Expedia-RecTour-Ranking" style="width: 100%;">
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/RAG-Sustainability">
-      <img src="https://github.com/kusharma/RAG-Sustainability/raw/main/project_image.png" alt="RAG-Sustainability" style="width: 100%;">
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/brain-tumour-classification">
-      <img src="https://github.com/kusharma/brain-tumour-classification/raw/main/project_image.png" alt="brain-tumour-classification" style="width: 100%;">
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/streamlit-app">
-      <img src="https://github.com/kusharma/streamlit-app/raw/main/project_image.png" alt="streamlit-app" style="width: 100%;">
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/symphony-of-nebula">
-      <img src="https://github.com/kusharma/symphony-of-nebula/raw/main/project_image.png" alt="symphony-of-nebula" style="width: 100%;">
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 45%;">
-    <a href="https://github.com/kusharma/epfl-extension-school-project">
-      <img src="https://github.com/kusharma/epfl-extension-school-project/raw/main/project_image.png" alt="EPFL Extension School Project" style="width: 100%;">
-    </a>
-  </div>
-</div>
 
 
 A Jupyter Notebook project visualizing nebula data.
