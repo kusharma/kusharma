@@ -1,6 +1,3 @@
-
-**kusharma/kusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome! 🚀
 
 I am Kunal Sharma, a data scientist and engineer with over a decade of interdisciplinary experience across biotechnology, mechanical engineering, and AI-driven solutions. My career has spanned multiphysics simulation, infectious disease modeling, and organ-on-a-chip technologies.
