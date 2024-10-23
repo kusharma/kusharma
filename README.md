@@ -40,7 +40,7 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 * ⚡ Fun fact 1: I am an avid investor in kickstarter campaigns celebrating ingenuous products related to Vespera telescope, Artiphone musical instruments, klydoclocks, and dynamic art for last 5 years.
 * ⚡ Fun fact 2: Developed a fascination with bacterial persistence during my PhD, while most fear infections!
-* * ⚡ Fun fact n: You got a talk with me ...
+* ⚡ Fun fact n: You got a talk with me ...
 
 
 
