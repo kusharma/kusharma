@@ -30,13 +30,14 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 ## My Top 6 Projects
 
-|:---------:|:---------:|
+| Project 1 | Project 2 |
 | [![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/blob/main/Expedia_KuSharma_DALLE.png)](https://github.com/kusharma/Expedia-RecTour-Ranking) | [![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/blob/main/RAG_image.png)](https://github.com/kusharma/RAG-Sustainability) |
 | **Expedia-RecTour-Ranking** | **RAG-Sustainability** |
 | [![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/blob/main/brain_tumour_image.png)](https://github.com/kusharma/brain-tumour-classification) | [![streamlit-app](https://github.com/kusharma/streamlit-app/blob/main/streamlit_image.png)](https://github.com/kusharma/streamlit-app) |
 | **brain-tumour-classification** | **streamlit-app** |
 | [![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/nebula_image.png)](https://github.com/kusharma/symphony-of-nebula) | [![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project/blob/main/epfl_image.png)](https://github.com/kusharma/epfl-extension-school-project) |
 | **symphony-of-nebula** | **EPFL Extension School Project** |
+
 
 
 
