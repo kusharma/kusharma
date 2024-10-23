@@ -32,19 +32,12 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 | ![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/blob/main/Expedia_KuSharma_DALLE.png) | ![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/blob/main/RAG_SwissRe_DALLE.png) |
 |:---------:|:---------:|
-| [**Transformer-Based Hotel Re Ranking System **](https://github.com/kusharma/Expedia-RecTour-Ranking) | [**Langchain-Powered Sustainability Workflows**](https://github.com/kusharma/RAG-Sustainability) |
+| [**Transformer-Based Hotel Re Ranking System**](https://github.com/kusharma/Expedia-RecTour-Ranking) | [**Langchain-Powered Sustainability Workflows**](https://github.com/kusharma/RAG-Sustainability) |
 | ![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/blob/main/BrainTumourCNN.png) | ![streamlit-app](https://github.com/kusharma/streamlit-app/blob/main/Streamlit_RenEnergy_Dalle2.png) |
 | [**Deep Learning for Brain Tumor Classification**](https://github.com/kusharma/brain-tumour-classification) | [**Renewable Energy Visualization in Switzerlandp**](https://github.com/kusharma/streamlit-app) |
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/JWT_Symphony.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project-adsv-c2/blob/main/EPFL_R_DALLE.png) |
-| [**Image to Music Generation Using Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
+| [**Image to Music Generation Using Langchain and Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
 
 
 
-A Jupyter Notebook project visualizing nebula data.
 
----
-
-### [EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project)
-[![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project/raw/main/project_image.png)](https://github.com/kusharma/epfl-extension-school-project)
-
-An HTML-based project from the EPFL Extension School.
