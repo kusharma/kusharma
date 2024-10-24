@@ -4,13 +4,13 @@ I am Kunal Sharma, a data scientist and engineer with over a decade of interdisc
 
 The Three Acts of My Professional Journey 🎭
 
-Act I: The Mechanical Engineer's Blueprint 🔧
+**Act I: The Mechanical Engineer's Blueprint 🔧**
 I began my career as a mechanical engineer, mastering multiphysics simulations and tackling complex engineering challenges. My early work involved developing cleanroom processes for MoS₂ nanopore devices, conducting COMSOL simulations of ion transport and DNA forces, and designing shock protection features for 3D silicon structures. 
 
-Act II: Mastering organ-on-a-chip systems engineering 🧬
+**Act II: Mastering organ-on-a-chip systems engineering 🧬**
 During my PhD in Bioengineering at EPFL, I became a world-leading expert on developing bladder-on-a-chip models for disease modeling. I pioneered innovations in organ-on-a-chip technologies, creating preclinical tissue models to study bacterial and viral infections. My research involved using advanced confocal time-lapse imaging and building 3D organoid models, pushing the boundaries of tissue engineering and infectious disease research in urinary tract infections, tuberculosis and COVID-19.
 
-Act III: Accelerating Innovation Through AI 🤖
+**Act III: Accelerating Innovation Through AI 🤖**
 In the final act of my journey, I transitioned to applying machine learning and AI across fields such as platform ranking, sustainability reporting, and agentic workflows. Leveraging AI for data-driven decision-making, I am driving innovation in how we process and analyze complex datasets, advancing intelligent systems that shape the future of industries.
 
 Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
