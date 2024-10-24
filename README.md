@@ -3,6 +3,7 @@ Welcome! 🚀
 I am Kunal Sharma, a data scientist and engineer with over a decade of interdisciplinary experience across biotechnology, mechanical engineering, and AI-driven solutions. My career has spanned multiphysics simulation, infectious disease modeling, and organ-on-a-chip technologies.
 
 The Three Acts of My Professional Journey 🎭
+
 Act I: The Mechanical Engineer's Blueprint 🔧
 I began my career as a mechanical engineer, mastering multiphysics simulations and tackling complex engineering challenges. My early work involved developing cleanroom processes for MoS₂ nanopore devices, conducting COMSOL simulations of ion transport and DNA forces, and designing shock protection features for 3D silicon structures. 
 
