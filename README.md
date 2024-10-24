@@ -11,14 +11,13 @@ I began my career as a mechanical engineer, mastering multiphysics simulations a
 During my PhD in Bioengineering at EPFL, I became a world-leading expert on developing bladder-on-a-chip models for disease modeling. I pioneered innovations in organ-on-a-chip technologies, creating preclinical tissue models to study bacterial and viral infections. My research involved using advanced confocal time-lapse imaging and building 3D organoid models, pushing the boundaries of tissue engineering and infectious disease research in urinary tract infections, tuberculosis and COVID-19.
 
 **Act III: Accelerating Innovation Through AI 🤖**
-In the final act of my journey, I transitioned to applying machine learning and AI across fields such as platform ranking, sustainability reporting, and agentic workflows. Leveraging AI for data-driven decision-making, I am driving innovation in how we process and analyze complex datasets, advancing intelligent systems that shape the future of industries.
-
-Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
-
----
+In the final act of my journey, I transitioned to applying machine learning and AI across fields such as platform ranking, sustainability reporting, and agentic workflows. 
 
 - 🔭 I’m currently working on AI-based retrieval-augmented generation workflows.
 - 🌱 I’m currently learning more about data engineering and MLOps in Azure and Databricks.
+
+Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drkunalsharma/) or [Email](mailto:kunal.nit90@gmail.com).
 
 ## My Top 6 Projects
