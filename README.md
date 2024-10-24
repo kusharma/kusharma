@@ -2,17 +2,15 @@ Welcome! 🚀
 
 I am Kunal Sharma, a data scientist and engineer with over a decade of interdisciplinary experience across biotechnology, mechanical engineering, and AI-driven solutions. My career has spanned multiphysics simulation, infectious disease modeling, and organ-on-a-chip technologies.
 
-I’ve lived three professional lives—starting as a mechanical engineer focused on multiphysics simulations, moving into growing miniaturized organs using microtechnology advances in tissue engineering, and now applying machine learning and AI across fields such as booking platforms ranking, sustainability reporting, and agents.
-
 The Three Acts of My Professional Journey 🎭
-Act I: The Engineer's Blueprint 🔧
-In the opening act, I honed my skills as a mechanical engineer, delving deep into multiphysics simulations. Here, I tackled complex engineering challenges, laying the groundwork for what would become a career built on solving intricate problems with precision and innovation.
+Act I: The Mechanical Engineer's Blueprint 🔧
+I began my career as a mechanical engineer, mastering multiphysics simulations and tackling complex engineering challenges. My early work involved developing cleanroom processes for MoS₂ nanopore devices, conducting COMSOL simulations of ion transport and DNA forces, and designing shock protection features for 3D silicon structures. These projects refined my skills in nanotechnology, multiphysics modeling, and device fabrication.
 
 Act II: The Scientist's Quest 🧬
-The second act saw a transformation. I transitioned into the world of biotechnology, pioneering breakthroughs in organ-on-a-chip technologies. From the microscopic intricacies of tissue engineering to the cutting-edge advances in miniaturized organs, this act brought me closer to the pulse of life sciences.
+During my PhD in Bioengineering at EPFL, I became a world-leading expert on developing bladder-on-a-chip models for disease modeling. I pioneered innovations in organ-on-a-chip technologies, creating preclinical tissue models to study bacterial and viral infections. My research involved using advanced confocal time-lapse imaging and building 3D organoid models, pushing the boundaries of tissue engineering and infectious disease research in urinary tract infections, tuberculosis and COVID-19.
 
 Act III: The AI Revolution 🤖
-In the final act (for now!), I entered the realm of machine learning and AI. With my sights set on platform ranking, sustainability reporting, and intelligent agentic workflows, I’m advancing how data shapes the world. This act is about innovation, leveraging AI to drive decision-making and uncover insights in entirely new ways.
+In the final act of my journey, I transitioned to applying machine learning and AI across fields such as platform ranking, sustainability reporting, and agentic workflows. Leveraging AI for data-driven decision-making, I am driving innovation in how we process and analyze complex datasets, advancing intelligent systems that shape the future of industries.
 
 Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
 
@@ -28,7 +26,7 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 |:---------:|:---------:|
 | [**Transformer-Based Hotel Re Ranking System**](https://github.com/kusharma/Expedia-RecTour-Ranking) | [**Langchain-Powered Sustainability Workflows**](https://github.com/kusharma/RAG-Sustainability) |
 | ![brain-tumour-classification](https://github.com/kusharma/brain-tumour-classification/blob/main/BrainTumourCNN.png) | ![streamlit-app](https://github.com/kusharma/streamlit-app/blob/main/Streamlit_RenEnergy_Dalle2.png) |
-| [**Deep Learning for Brain Tumor Classification**](https://github.com/kusharma/brain-tumour-classification) | [**Renewable Energy Visualization in Switzerlandp**](https://github.com/kusharma/streamlit-app) |
+| [**Deep Learning for Brain Tumor Classification**](https://github.com/kusharma/brain-tumour-classification) | [**Renewable Energy Visualization in Switzerland**](https://github.com/kusharma/streamlit-app) |
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/JWT_Symphony.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project-adsv-c2/blob/main/EPFL_R_DALLE.png) |
 | [**Image to Music Generation Using Langchain and Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
 
