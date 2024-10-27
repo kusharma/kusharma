@@ -33,7 +33,7 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 | [**Deep Learning for Brain Tumor Classification**](https://github.com/kusharma/brain-tumour-classification) | [**Renewable Energy Visualization in Switzerland**](https://github.com/kusharma/streamlit-app) |
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/JWT_Symphony.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project-adsv-c2/blob/main/EPFL_R_DALLE.png) |
 | [**Image to Music Generation Using Langchain and Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
-| ![Pydantic](https://github.com/kusharma/symphony-of-nebula/blob/main/images/DALLE_Pydantic.png) | |
+| ![Pydantic](https://github.com/kusharma/Pydantic/blob/main/images/DALLE_Pydantic.png) | |
 | [**Pydantic use cases in sustainability data**](https://github.com/kusharma/Pydantic) ||
 
 
