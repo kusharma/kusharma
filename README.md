@@ -16,6 +16,10 @@ In the final act of my journey, I transitioned to applying machine learning and 
 - 🔭 I’m currently working on AI-based retrieval-augmented generation workflows.
 - 🌱 I’m currently learning more about data engineering and MLOps in Azure and Databricks.
 
+* ⚡ Fun fact 1: I am an avid investor in kickstarter campaigns celebrating ingenuous products related to Vespera telescope, Artiphone musical instruments, klydoclocks, and dynamic art for last 5 years.
+* ⚡ Fun fact 2: Developed a fascination with bacterial persistence during my PhD, while most fear infections!
+* ⚡ Fun fact n: You got a talk with me ...
+
 Feel free to check out my [CV](link-to-CV) and explore some of my [projects](https://github.com/kusharma?tab=repositories).
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drkunalsharma/) or [Email](mailto:kunal.nit90@gmail.com).
@@ -29,10 +33,8 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 | [**Deep Learning for Brain Tumor Classification**](https://github.com/kusharma/brain-tumour-classification) | [**Renewable Energy Visualization in Switzerland**](https://github.com/kusharma/streamlit-app) |
 | ![symphony-of-nebula](https://github.com/kusharma/symphony-of-nebula/blob/main/JWT_Symphony.png) | ![EPFL Extension School Project](https://github.com/kusharma/epfl-extension-school-project-adsv-c2/blob/main/EPFL_R_DALLE.png) |
 | [**Image to Music Generation Using Langchain and Meta's MusicGen AI**](https://github.com/kusharma/symphony-of-nebula) | [**Advanced Data Visualization and Communication**](https://github.com/kusharma/epfl-extension-school-project) |
-
-* ⚡ Fun fact 1: I am an avid investor in kickstarter campaigns celebrating ingenuous products related to Vespera telescope, Artiphone musical instruments, klydoclocks, and dynamic art for last 5 years.
-* ⚡ Fun fact 2: Developed a fascination with bacterial persistence during my PhD, while most fear infections!
-* ⚡ Fun fact n: You got a talk with me ...
+| ![Pydantic](https://github.com/kusharma/symphony-of-nebula/blob/main/images/DALLE_Pydantic.png) | |
+| [**Pydantic use cases in sustainability data**](https://github.com/kusharma/Pydantic) ||
 
 
 
