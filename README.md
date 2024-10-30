@@ -24,7 +24,7 @@ Feel free to check out my [CV](link-to-CV) and explore some of my [projects](htt
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/drkunalsharma/) or [Email](mailto:kunal.nit90@gmail.com).
 
-## My Top 6 Projects
+## My Top 8 Projects
 
 | ![Expedia-RecTour-Ranking](https://github.com/kusharma/Expedia-RecTour-Ranking/blob/main/Expedia_KuSharma_DALLE.png) | ![RAG-Sustainability](https://github.com/kusharma/RAG-Sustainability/blob/main/RAG_SwissRe_DALLE.png) |
 |:---------:|:---------:|
